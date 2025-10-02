@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/seshu/OneDrive/Desktop/javasem3miniproject/quiz-platform/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/seshu/OneDrive/Desktop/javasem3miniproject/quiz-platform/./frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/seshu/OneDrive/Desktop/javasem3miniproject/quiz-platform/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\seshu\\OneDrive\\Desktop\\javasem3miniproject\\quiz-platform\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\seshu\\OneDrive\\Desktop\\javasem3miniproject\\quiz-platform\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/seshu/OneDrive/Desktop/javasem3miniproject/quiz-platform/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/seshu/OneDrive/Desktop/javasem3miniproject/quiz-platform/src/main/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/seshu/OneDrive/Desktop/javasem3miniproject/quiz-platform/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\seshu\\OneDrive\\Desktop\\javasem3miniproject\\quiz-platform\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
